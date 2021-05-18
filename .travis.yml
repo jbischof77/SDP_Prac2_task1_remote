@@ -1,0 +1,5 @@
+language: csharp
+compiler: dotnet
+os:
+- Focal Fossa Ubuntu Linux
+- osx
